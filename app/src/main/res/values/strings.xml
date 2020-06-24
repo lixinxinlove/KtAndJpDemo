@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KtAndJpDemo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <integer name="card_flip_time_full">100</integer>
+    <integer name="card_flip_time_half">100</integer>
+
+</resources>
